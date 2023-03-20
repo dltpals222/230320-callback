@@ -14,7 +14,5 @@ const abcde = {
 
 
 
-
-
 //모듈방식
 export default abcde;
